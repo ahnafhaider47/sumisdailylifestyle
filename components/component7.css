@@ -1,0 +1,23 @@
+.component7-container {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.component7-image {
+  width: 44px;
+  height: 43px;
+  object-fit: cover;
+  border-radius: var(--dl-radius-radius-round);
+}
+.component7-navlink {
+  font-weight: 600;
+  margin-right: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+@media(max-width: 991px) {
+  .component7-navlink {
+    color: var(--dl-color-secondary-700);
+  }
+}

@@ -1,0 +1,15 @@
+.component3-container {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.component3-iframe {
+  width: 558px;
+  height: 357px;
+}
+.component3-iframe1 {
+  width: 526px;
+  height: 357px;
+}

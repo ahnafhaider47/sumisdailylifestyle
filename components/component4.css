@@ -1,0 +1,17 @@
+.component4-container {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.component4-iframe {
+  width: 558px;
+  height: 357px;
+  align-self: center;
+  margin-right: var(--dl-space-space-doubleunit);
+}
+.component4-iframe1 {
+  width: 526px;
+  height: 357px;
+}

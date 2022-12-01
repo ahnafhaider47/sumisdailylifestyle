@@ -1,0 +1,11 @@
+.component5-container {
+  display: flex;
+  position: relative;
+}
+.component5-navlink {
+  color: var(--dl-color-secondary-700);
+  font-weight: 600;
+  margin-left: var(--dl-space-space-unit);
+  margin-right: var(--dl-space-space-unit);
+  text-decoration: none;
+}
